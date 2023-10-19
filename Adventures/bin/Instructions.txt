@@ -1,0 +1,35 @@
+To make inputs enter any numbers shown in the terminal
+For example if the game asks you if you want to go left(1) or right(2)
+entering 1 into the terminal will make you go left and entering 2 into the terminal will make you go right.
+
+There are 3 classes you cam choose
+The barbarian: Good for taking lots of damage as they have high health and can become even more of a tank with armor upgrades
+
+The fighter: A good all rounder which has good armor, preferably focus on upgrading attack 
+
+The rogue: high attack and speed allow for dealing high damage and dodging incoming damage and traps, can focus on either
+    upgrading attack to end fights before you take too much damage or armor to have a little more sustainabilty in fights
+
+There will be a total of 10 Rooms on each floor
+The left path will have 4 Rooms which could be an Item, Trap, Monster, Shop and one extra room at the end as an exit
+The right path follows the same rules as the left 
+
+As you traverse rooms you do not have to backtrack through them if you want to journey through the other path
+In shops you can spend your hard earned gold on upgrades or to rest to set your health back to max
+
+When you reach an Item room you will automatically use it to upgrade your stats
+    There is something in the brine. Pickles can overheal you, make sure not to rest as it will set your health back to max
+
+There are many monsters you can face, the most powerful of the bunch will have better rewards but its not always advised to fight it
+    If you flee from a fight you wont have to fight that monster later
+
+Traps will be hidden as another Room type so be careful, when you enter a trap Room you will automatically try to dodge the trap 
+    based on your speed
+
+Every 4 floors you complete the monsters will get harder but will grant you more xp and gold
+
+Every time you level up you will need exponentially more xp to level up
+
+Keep going until your inevitable fate meets its end
+
+post your high score at [REDACTED]
